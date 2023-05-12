@@ -1,6 +1,6 @@
 ### Findoctor website using Html, Css and JavaScript.
 
-![E-commerce website]https://github.com/shrimon347/findoctor/blob/master/doctor.PNG?raw=true)
+![E-commerce website](https://github.com/shrimon347/findoctor/blob/master/doctor.PNG?raw=true)
 
 
 #### Demo: https://shrimon347.github.io/findoctor/
